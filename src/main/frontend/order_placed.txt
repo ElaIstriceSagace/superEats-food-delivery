@@ -1,0 +1,17 @@
+Thank you for using SuperEats!
+
+Your order is now on it's way!
+
+Current Status:
+- Order is being prepared by the restaurant! (CheckMark.png)
+- The driver has your food! (Timer.png)
+- The food has arrived! (Timer.png)
+
+Your order:
+- Large Hamburger
+- Fries
+- Coca Cola
+
+Order ID: 0001
+
+For issues, please see our Contact Us (URL TO CONTACT US PAGE) page for more information!
