@@ -8,3 +8,6 @@ support.orders@supereats.co.uk
 
 Work with us
 join.us@supereats.co.uk
+
+Complaints
+complaints@supereats.co.uk
